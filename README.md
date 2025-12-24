@@ -16,7 +16,7 @@ Este repositorio contiene la solución a una prueba técnica implementada con **
 ---
 
 ## Estructura del proyecto
-
+```
 ├── tests/
 │ ├── api/ # Pruebas de integración API
 │ └── e2e/ # Pruebas end to end
@@ -31,6 +31,7 @@ Este repositorio contiene la solución a una prueba técnica implementada con **
 ├── playwright.config.ts
 ├── package.json
 └── README.md
+```
 
 
 ## Prueba 1 - Integración API (PokéAPI)
